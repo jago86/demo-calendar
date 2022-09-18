@@ -54,7 +54,7 @@ Para correr los tests del proyecto:
 ```
 php artisan test
 
-// O tambien
+// O también
 
 vendor/bin/phpunit
 ```
